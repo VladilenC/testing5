@@ -1,5 +1,5 @@
 name: testingvideo
-description:
+description: test
 version: 1.0.0
 publish_to: 'none'
 
@@ -20,7 +20,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  assets:
-    - assets/ypf.png
 
   
